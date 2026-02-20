@@ -11,7 +11,7 @@
 body {
   background: linear-gradient(135deg, #fef9f3 0%, #f5e6d3 50%, #fef9f3 100%);
   background-attachment: fixed;
-  font-family: "Dancing Script", cursive;
+  font-family: Roboto Mono;
   color: #333;
   min-height: 100vh;
   padding: 40px;
@@ -409,3 +409,4 @@ body {
     font-size: 0.95rem;
   }
 }
+
