@@ -7,7 +7,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: Inter;
 }
 
 body {
@@ -450,3 +450,4 @@ body::before {
     padding: 6px 12px;
   }
 }
+
